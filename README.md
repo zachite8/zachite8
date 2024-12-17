@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachite8
-- 👀 I’m interested in starting an app for passive income and to see if I can do it
+- 👀 I’m interested in starting an app to see if I can do it
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
   
